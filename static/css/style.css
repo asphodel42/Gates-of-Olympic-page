@@ -65,7 +65,8 @@ section.index-page {
 }
 section#sec_1 {
     max-width: min(1920px, 91.5%);
-    margin: 70px auto 0;
+    margin: 0 auto;
+    padding: 70px 0 0;
 }
 section#sec_2, section#sec_3, section#sec_4,
 section#sec_5, section#sec_6{
